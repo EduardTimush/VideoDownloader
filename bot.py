@@ -2,7 +2,7 @@ import asyncio
 from app.handlers import router
 from aiogram import Bot, Dispatcher
 import shutil
-TOKEN = "6631664718:AAG_PSVA10PCmNlMygm9NpwXPAoC6o-qJC0"
+TOKEN = ""
 
 
 async def main():
